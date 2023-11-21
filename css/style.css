@@ -31,6 +31,7 @@
   cursor: pointer;
   transition: 0.3s;
   z-index: 100000000000;
+  color: var(--primary-heading-clr);
 }
 .scrollTop.active {
   right: 20px;
@@ -297,6 +298,7 @@ button {
   align-items: center;
   justify-content: space-between;
   position: relative;
+  color: var(--primary-heading-clr);
 }
 .smallColSkill .bar {
   width: 100%;
